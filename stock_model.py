@@ -3,9 +3,9 @@ import sys
 
 import tensorflow as tf
 import functools
+from loader import *
 
 from ops import *
-from loader import *
 
 def doublewrap(function):
   @functools.wraps(function)

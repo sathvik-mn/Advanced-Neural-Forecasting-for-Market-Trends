@@ -1,4 +1,7 @@
 # Advanced Neural Forecasting for Market Trends
+
+![image](https://github.com/sathvik-mn/Advanced-Neural-Forecasting-for-Market-Trends/assets/135670987/144384d1-0b8a-4427-a0cf-a324aba0668d)
+
 Uses Deep Convolutional Neural Networks (CNNs) to model the stock market using technical analysis. Predicts the future trend of stock selections.
 
 ## How does it work?
